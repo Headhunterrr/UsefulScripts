@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.git
 
 *.mp3
 *.exe
